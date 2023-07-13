@@ -1,0 +1,100 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+body
+{
+    text-align: center;
+}
+
+
+.pro
+{
+    text-decoration: underline;
+}
+
+.Akash_Negi
+{
+    padding: 10% auto ;
+    background-color: rgb(231, 231, 231);
+}
+
+
+
+
+
+
+.I
+{
+    background-color: chartreuse;
+    height: 5%;
+    width: 50%;
+    margin: auto;
+    padding: 3% 0%;
+}
+.first
+{
+    width: 40%;
+    margin: auto;
+    line-height: 2;
+}
+
+
+
+.What
+{
+    background-color: chartreuse;
+    height: 5%;
+    width: 70%;
+    margin: auto;
+    padding: 3% 0%;
+}
+.second
+{
+    width: 60%;
+    margin: auto;
+    text-align: left;
+    line-height: 2;
+}
+.left
+{
+    width: 20%;
+    float: left;
+    margin-right: 40px;
+}
+.right
+{
+    width: 20%;
+    float: right;
+    margin-left: 40px;
+}
+
+.Help
+{
+    background-color: chartreuse;
+    height: 5%;
+    width: 60%;
+    margin: auto;
+    padding: 3% 0%;
+}
+.third
+{
+    width: 50%;
+    margin: auto;
+    line-height: 2;
+}
+
+.last
+{
+    background-color: rgb(255, 174, 194);
+    height: 6%;
+    padding: 3% 42%;
+}
+.akashnegi
+{
+    text-decoration: underline;
+}
